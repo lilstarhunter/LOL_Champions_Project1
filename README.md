@@ -1,4 +1,5 @@
 # League of Legends
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lilstarhunter/LeagueofLegends/HEAD?filepath=lol_analysis.ipynb)
 
 ### Objective: Analyze player data for the game League of Legends to create a "Super Squad" team of Champions
 
